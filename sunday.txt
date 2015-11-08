@@ -1,1 +1,2 @@
-sunday
+Today is Sunday
+:w
