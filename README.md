@@ -2,6 +2,5 @@
 i am learning javascript
 
 ## lesson 1 
-basic hello world exaple 
-
+basic hello world example
 
