@@ -1,5 +1,5 @@
 Today is Sunday
-tomorrow is monday
+tomorrow is Monday
 
-And then its tuesday
-And then wed.
+And then its Tuesday
+And then Wed.
