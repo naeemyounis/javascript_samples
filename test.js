@@ -8,18 +8,4 @@ var x = months.reverse();
 
 for (var i = 0; i < x.length; i++) {
   console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
-  console.log(x[i]);
 }
