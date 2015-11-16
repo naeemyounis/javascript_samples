@@ -1,4 +1,4 @@
-var age = 18;
+var age = 19;
 
 if (age < 18) {
   console.log("Sorry you are too young");
