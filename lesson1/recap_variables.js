@@ -6,4 +6,4 @@ console.log(b);
 console.log(a+b+c);
 
 var age =18;
-console.log("your age iS " +               age);
+console.log("your age iS " + age);

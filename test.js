@@ -7,7 +7,5 @@ var months = ["Jan", "Feb", "Mar"];
 var x = months.reverse();
 
 for (var i = 0; i < x.length; i++) {
-
-  hello
+  console.log(x[i]);
 }
-g
