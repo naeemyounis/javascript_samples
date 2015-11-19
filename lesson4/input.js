@@ -5,7 +5,10 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 
-rl.question("What is your name? ", function(answer) {
-  console.log("Hi there: ", answer);
+
+rl.question("What is your name? ", function(theName) {
+  console.log("Hi there: ", theName);
+  console.log("You smell: ", theName);
+  console.log("Go away: ", theName);
   rl.close();
 });

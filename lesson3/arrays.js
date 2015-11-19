@@ -12,6 +12,7 @@ console.log(month3);
 
 var months = ["Jan", "Feb", "Mar"#;  // array
 var fruits = [   "apple",  "pear", "orange", "kiwi" ];  // array
+
 console.log(months);
 console.log(months[0]);
 console.log(months[1]);
