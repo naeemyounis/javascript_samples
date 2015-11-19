@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a very basic HTTP web server. Says hello world",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayub Malik <ayub.malik@dwp.gsi.gov.uk>",
+  "license": "ISC"
+}
